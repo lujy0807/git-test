@@ -13,7 +13,7 @@ public class GitTest {
         System.out.println("pull test!");
         System.out.println("gitee test!");
         System.out.println("gitee test2!");
-        System.out.println("111111111");
+        System.out.println("44444444");
     }
 
 }
